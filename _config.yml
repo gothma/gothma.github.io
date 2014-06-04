@@ -1,7 +1,7 @@
 # Site settings
 title: Martin Goth
 email: gothm@cs.uni-freiburg.de
-description: "Computer Science student at Albert Ludwig University Freiburg."
+description: "Computer Science student at [Albert Ludwig University Freiburg](http://www.informatik.uni-freiburg.de)."
 baseurl: ""
 url: "http://yourdomain.com"
 username: gothma
