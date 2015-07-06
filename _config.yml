@@ -1,11 +1,11 @@
 # Site settings
 title: Martin Goth
-email: gothm@cs.uni-freiburg.de
+email: gothm@ziisch.de
 description: "Computer Science student at <br>[Albert-Ludwigs University Freiburg](http://www.informatik.uni-freiburg.de)."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.ziisch.de"
 username: gothma
-twitter: magmaster
+twitter: ziisch
 
 # Build settings
 markdown: kramdown
